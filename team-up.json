@@ -1,0 +1,12 @@
+{
+	"team/heisenberg": [
+		"refs/remotes/team/heisenberg/*",
+		"refs/remotes/origin/actstr.1"
+	],
+	"team/imua": [
+		"refs/remotes/team/imua/*",
+		"refs/remotes/origin/refresh_historical_velocity_S-43455",
+		"refs/remotes/origin/modernize_move_to_epic_S-41366"
+	],
+	"unstable": ["team/heisenberg", "team/imua"]
+}
